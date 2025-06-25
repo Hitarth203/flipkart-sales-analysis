@@ -6,7 +6,7 @@ This project involves cleaning, analyzing, and visualizing e-commerce sales data
 
 ## 📁 Dataset
 
-The dataset used is sourced from [Kaggle](https://www.kaggle.com/datasets/sabya40/filpkart-onlineorders) and contains:
+The dataset used belongs to the Client work (can be shared) and contains:
 
 - Product names
 - Brands
